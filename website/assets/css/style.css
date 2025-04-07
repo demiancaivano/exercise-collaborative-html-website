@@ -21,3 +21,14 @@ body{
     font-size: 50px;
    
 }
+.contact {
+    width: 800px;
+    height: 240px;
+    background: gainsboro;
+    margin: 0 auto;
+    padding: 15px 15px 20px 45px;
+}
+.titulo_contact {
+    text-align: center;
+    text-align: justify;
+}
