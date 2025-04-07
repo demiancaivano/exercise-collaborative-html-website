@@ -1,3 +1,23 @@
 body{
     background: #BDBDBD;
 }
+.jumbotron-bg {
+    background-image: url("../img/bg.jpg");
+    background-size: cover;
+    background-position: bottom;
+    height: 50vh;
+    color: black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+ }
+
+.display-3 {
+    font-size: 60px;
+}
+
+.lead {
+    font-size: 50px;
+   
+}
