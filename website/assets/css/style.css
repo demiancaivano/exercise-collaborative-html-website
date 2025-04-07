@@ -1,3 +1,19 @@
 body{
     background: #BDBDBD;
 }
+.jumbotron-bg {
+    background-image: url("bg.jpg"); /* Asegúrate de que la imagen esté en el mismo directorio */
+    background-size: cover;
+    background-position: center;
+    height: 50vh;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+  }
+
+  .jumbotron-content {
+    position: relative;
+    z-index: 2;
+  }
